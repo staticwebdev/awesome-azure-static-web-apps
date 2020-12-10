@@ -10,7 +10,7 @@
 
 ## Learning resources
 
-- [Official docs and quickstart](https://docs.microsoft.com/azure/static-web-apps/?WT.mc_id=javascript-0000-yolasors) [docs.microsoft.com]
+- [Official docs and quickstart](https://docs.microsoft.com/azure/static-web-apps/?WT.mc_id=javascript-11478-cxa) [docs.microsoft.com]
 - [Deploy serverless web apps and APIs with Azure Static Web Apps and GitHub](https://dev.to/azure/the-easy-way-to-serverless-web-apps-and-apis-with-azure-swag-2heb) [dev.to]
 
 ### By technology
@@ -26,6 +26,7 @@
 
 - [Azure Static Web Apps and Mongoose starter kit](https://github.com/GeekTrainer/aswa-student-starter-kit)
 - [Azure Static Web Apps Minimal HTML/JS/CSS Template](https://github.com/sinedied/azure-swag)
+- [Static Web Dev GitHub TemplateS](https://github.com/staticwebdev?tab=repositories)
 
 ## Showcase
 
