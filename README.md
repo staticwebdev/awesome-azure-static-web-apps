@@ -14,6 +14,8 @@
 - [Deploy serverless web apps and APIs with Azure Static Web Apps and GitHub](https://dev.to/azure/the-easy-way-to-serverless-web-apps-and-apis-with-azure-swag-2heb) [dev.to]
 
 ### By technology
+- [Create React App](https://create-react-app.dev/)
+  * [Azure Static Web App Deployment](https://create-react-app.dev/docs/deployment/#azure)
 - [Nuxt.js](https://nuxtjs.org/)
   * [How to deploy on Azure Static Web Apps](https://nuxtjs.org/faq/deployment-azure-static-web-apps/) [nuxtjs.org]
 
@@ -21,6 +23,7 @@
 
 - [Azure Static Web Apps Emulator](https://github.com/manekinekko/swa-emulator)
 - [GitHub Action for deploying to Azure Static Web Apps](https://github.com/Azure/static-web-apps-deploy)
+- [Blazor Authentication for Azure Static Web Apps](https://github.com/Azure/azure-app-service-authentication)
 
 ## Starter Kits
 
