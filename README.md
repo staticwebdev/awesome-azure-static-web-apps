@@ -1,5 +1,9 @@
 # Awesome Azure Static Web Apps ![Awesome Badge](https://awesome.re/badge-flat2.svg)
 
+<p align="center"><img src="https://github.com/sinedied/awesome-azure-static-web-apps/blob/main/static-web-apps.png?raw=true" alt="Azure Static Web Apps logo" width="200" height="auto"></p>
+
+[What's Azure Static Web Apps?](https://docs.microsoft.com/azure/static-web-apps/overview?WT.mc_id=javascript-11478-cxa)
+
 ## Contents
 
 - [Learning resources](#learning-resources)
