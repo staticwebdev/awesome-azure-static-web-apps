@@ -18,8 +18,11 @@
 - [Deploy serverless web apps and APIs with Azure Static Web Apps and GitHub](https://dev.to/azure/the-easy-way-to-serverless-web-apps-and-apis-with-azure-swag-2heb) [dev.to]
 
 ### By technology
+
 - [Create React App](https://create-react-app.dev/)
-  * [Azure Static Web App Deployment](https://create-react-app.dev/docs/deployment/#azure)
+  * [Azure Static Web App Deployment](https://create-react-app.dev/docs/deployment/#azure) [reate-react-app.dev]
+- [Gatsby](https://www.gatsbyjs.com)
+  * [Azure Static Web App Deployment](https://www.gatsbyjs.com/docs/deploying-to-azure/) [gatsbyjs.com]
 - [Nuxt.js](https://nuxtjs.org/)
   * [How to deploy on Azure Static Web Apps](https://nuxtjs.org/faq/deployment-azure-static-web-apps/) [nuxtjs.org]
 
