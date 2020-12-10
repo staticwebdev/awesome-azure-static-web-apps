@@ -1,6 +1,6 @@
 # Awesome Azure Static Web Apps ![Awesome Badge](https://awesome.re/badge-flat2.svg)
 
-<p align="center"><img src="https://github.com/sinedied/awesome-azure-static-web-apps/blob/main/static-web-apps.png?raw=true" alt="Azure Static Web Apps logo" width="200" height="auto"></p>
+<img src="https://github.com/sinedied/awesome-azure-static-web-apps/blob/main/static-web-apps.png?raw=true" alt="Azure Static Web Apps logo" width="200" height="auto">
 
 [What's Azure Static Web Apps?](https://docs.microsoft.com/azure/static-web-apps/overview?WT.mc_id=javascript-11478-cxa)
 
@@ -16,19 +16,21 @@
 
 - [Official docs and quickstart](https://docs.microsoft.com/azure/static-web-apps/?WT.mc_id=javascript-11478-cxa) [docs.microsoft.com]
 - [Learn how to get started with Azure Static Web Apps // Build 2020](https://www.youtube.com/watch?v=OFcyWMg3jjg) [youtube.com]
+- [From code to scale! Build a static web app in minutes // Build 2020](https://channel9.msdn.com/Events/Build/2020/INT159?WT.mc_id=javascript-11478-cxa) [channel9.com]
 - [Building and Deploying a Static Web App](https://channel9.msdn.com/Shows/Docs-Azure/Building-and-Deploying-a-Static-Web-App/?WT.mc_id=javascript-11478-cxa) [channel9.com]
 - [Publish an API to Azure Static Web Apps](https://docs.microsoft.com/learn/modules/publish-static-web-app-api-preview-url/?WT.mc_id=javascript-11478-cxa) [docs.microsoft.com]
 - [Deploy serverless web apps and APIs with Azure Static Web Apps and GitHub](https://dev.to/azure/the-easy-way-to-serverless-web-apps-and-apis-with-azure-swag-2heb) [dev.to]
+- [Static Web Apps - First Look](https://dev.to/azure/static-web-apps-first-look-3b1) [dev.to]
 - [Build a Beautiful Web site the Easy Way Using Azure Static Web Apps](https://channel9.msdn.com/Events/Start-Dev-Change/Start-Dev-Change/Build-a-Beautiful-Web-site-the-Easy-Way-Using-Azure-Static-Web-Apps?WT.mc_id=javascript-11478-cxa) [channel9.com]
 - [Getting Started with Azure Static Web Apps](https://blog.codewithdan.com/getting-started-with-azure-static-web-apps/) [blog.codewithdan.com]
-
+- [Let's Get Started With Azure Static Web Apps](https://www.youtube.com/watch?v=31nFBQg5cAQ) [youtube.com]
 
 ### By technology
 
 - [Angular](https://angular.io/)
   * [Publish an Angular app with Azure Static Web Apps](https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api/&WT.mc_id=javascript-11478-cxa) [docs.microsoft.com]
   * [Deploy an Angular Application with Azure Static Web Apps](https://www.telerik.com/blogs/deploy-angular-application-with-azure-static-web-apps) [telerik.com]
-  * [https://medium.com/bb-tutorials-and-thoughts/building-an-angular-app-with-azure-static-web-apps-service-8fe84ebe4709] [medium.com]
+  * [Building An Angular App With Azure Static Web Apps Service](https://medium.com/bb-tutorials-and-thoughts/building-an-angular-app-with-azure-static-web-apps-service-8fe84ebe4709) [medium.com]
 - [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor?WT.mc_id=javascript-11478-cxa)
   * [Publish a Blazor WebAssembly app and .NET API with Azure Static Web Apps](https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api-dotnet/?WT.mc_id=javascript-11478-cxa)
   * [Deploy Blazor WebAssembly apps to Azure Static Web Apps](https://www.maneu.net/blog/2020-05-deploy-blazor-client-apps-with-azure-static-apps/) [maneu.net]
