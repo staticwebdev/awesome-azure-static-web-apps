@@ -40,6 +40,8 @@
 - [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor?WT.mc_id=javascript-11478-cxa)
   * [Publish a Blazor WebAssembly app and .NET API with Azure Static Web Apps](https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api-dotnet/?WT.mc_id=javascript-11478-cxa)
   * [Deploy Blazor WebAssembly apps to Azure Static Web Apps](https://www.maneu.net/blog/2020-05-deploy-blazor-client-apps-with-azure-static-apps/) [maneu.net]
+- [Eleventy]
+  * [Publish an Eleventy app with Azure Static Web Apps](https://github.com/manekinekko/11ty-blog-swa#eleventy-base-blog)[github.com]
 - [Gatsby](https://www.gatsbyjs.com)
   * [Azure Static Web App Deployment](https://www.gatsbyjs.com/docs/deploying-to-azure/) [gatsbyjs.com]
   * [Create and publish a static web app with Gatsby and Azure Static Web Apps](https://docs.microsoft.com/learn/modules/create-deploy-static-webapp-gatsby-app-service/?WT.mc_id=javascript-11478-cxa) [docs.microsoft.com]
