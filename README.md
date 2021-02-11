@@ -35,6 +35,7 @@
 
 - [Angular](https://angular.io/)
   * [Publish an Angular app with Azure Static Web Apps](https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api/&WT.mc_id=javascript-11478-cxa) [docs.microsoft.com]
+  * [Publish a server-side rendered Angular app with Azure Static Web Apps](https://github.com/manekinekko/angular-ssr-swa#angular-server-side-rendering-on-azure-static-web-apps) [github.com]
   * [Deploy an Angular Application with Azure Static Web Apps](https://www.telerik.com/blogs/deploy-angular-application-with-azure-static-web-apps) [telerik.com]
   * [Building An Angular App With Azure Static Web Apps Service](https://medium.com/bb-tutorials-and-thoughts/building-an-angular-app-with-azure-static-web-apps-service-8fe84ebe4709) [medium.com]
 - [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor?WT.mc_id=javascript-11478-cxa)
