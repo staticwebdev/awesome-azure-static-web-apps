@@ -30,6 +30,7 @@
 - [Getting Started with Azure Static Web Apps](https://blog.codewithdan.com/getting-started-with-azure-static-web-apps/) [blog.codewithdan.com]
 - [Let's Get Started With Azure Static Web Apps](https://www.youtube.com/watch?v=31nFBQg5cAQ) [youtube.com]
 - [Converting a web app to Static Web Apps](https://amygoestoperth.com.au/building-quokkabot-part-3-moving-to-azure-static-web-apps/)
+- [Angular, Rust, WebAssembly, Node.js, Serverless, and... the NEW Azure Static Web Apps!](https://dev.to/azure/angular-rust-webassembly-node-js-serverless-and-the-new-azure-static-web-apps-cnb)[dev.to/azure]
 
 ### By technology
 
