@@ -52,6 +52,8 @@
   * [Create React App Deployment](https://create-react-app.dev/docs/deployment/#azure) [reate-react-app.dev]
   * [Publish a React app with Azure Static Web Apps](https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api/&WT.mc_id=javascript-11478-cxa) [docs.microsoft.com]
   * [React + TypeScript + GraphQL with Azure Static Web Apps](https://www.youtube.com/watch?v=7CmNSykJNoA) [youtube.com]
+- [Stencil](https://stenciljs.com)
+  * [Publish a Stencil app with Azure Static Web Apps](https://github.com/manekinekko/stencil-swa#stencil-app-starter) [github.com]
 - [Svelte](https://svelte.dev/)
   * [Publish a Svelte app with Azure Static Web Apps](https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api/&WT.mc_id=javascript-11478-cxa) [docs.microsoft.com]
 - [Vue](https://vuejs.org/)
