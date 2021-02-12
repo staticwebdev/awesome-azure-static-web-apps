@@ -63,7 +63,7 @@
 ## Tools
 
 - [Azure Static Web Apps Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps&WT.mc_id=javascript-11478-cxa)
-- [Azure Static Web Apps Emulator](https://github.com/azure/swa-emulator)
+- [Azure Static Web Apps CLI](https://github.com/Azure/static-web-apps-cli)
 - [GitHub Action for deploying to Azure Static Web Apps](https://github.com/Azure/static-web-apps-deploy)
 - [Blazor Authentication for Azure Static Web Apps](https://github.com/Azure/azure-app-service-authentication)
 - [JavaScript API Authentication helper](https://github.com/aaronpowell/azure-static-web-apps-api-auth)
