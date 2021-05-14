@@ -31,6 +31,9 @@
 - [Let's Get Started With Azure Static Web Apps](https://www.youtube.com/watch?v=31nFBQg5cAQ) [youtube.com]
 - [Converting a web app to Static Web Apps](https://amygoestoperth.com.au/building-quokkabot-part-3-moving-to-azure-static-web-apps/)
 - [Angular, Rust, WebAssembly, Node.js, Serverless, and... the NEW Azure Static Web Apps!](https://dev.to/azure/angular-rust-webassembly-node-js-serverless-and-the-new-azure-static-web-apps-cnb)[dev.to/azure]
+- [Using Okta with Static Web Apps](https://www.aaron-powell.com/posts/2021-05-13-using-okta-with-static-web-apps/) [www.aaron-powell.com]
+- [Using Auth0 with Static Web Apps](https://www.aaron-powell.com/posts/2021-05-13-using-auth0-with-static-web-apps/) [www.aaron-powell.com]
+- [Introducing the Static Web Apps CLI](https://techcommunity.microsoft.com/t5/apps-on-azure/introducing-the-azure-static-web-apps-cli/ba-p/2257581) [techcommunity.microsoft.com]
 
 ### By technology
 
@@ -62,9 +65,19 @@
 
 ## Tools
 
+### Local Dev
+
 - [Azure Static Web Apps Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps&WT.mc_id=javascript-11478-cxa)
 - [Azure Static Web Apps CLI](https://github.com/Azure/static-web-apps-cli)
+- [Developing with VS Code Devcontainers](https://acloudguru.com/blog/engineering/how-to-develop-serverless-apps-with-github-codespaces) ([devcontainer reference](https://github.com/microsoft/vscode-dev-containers/tree/master/containers/azure-static-web-apps))
+- [Test a staticwebapp.config.json file](https://swa-playground.wassim.dev/)
+
+### Deployment
+
 - [GitHub Action for deploying to Azure Static Web Apps](https://github.com/Azure/static-web-apps-deploy)
+
+### Auth
+
 - [Blazor Authentication for Azure Static Web Apps](https://github.com/Azure/azure-app-service-authentication)
 - [JavaScript API Authentication helper](https://github.com/aaronpowell/azure-static-web-apps-api-auth)
 - [React auth components](https://github.com/aaronpowell/react-static-web-apps-auth)
