@@ -34,6 +34,7 @@
 - [Using Okta with Static Web Apps](https://www.aaron-powell.com/posts/2021-05-13-using-okta-with-static-web-apps/) [www.aaron-powell.com]
 - [Using Auth0 with Static Web Apps](https://www.aaron-powell.com/posts/2021-05-13-using-auth0-with-static-web-apps/) [www.aaron-powell.com]
 - [Introducing the Static Web Apps CLI](https://techcommunity.microsoft.com/t5/apps-on-azure/introducing-the-azure-static-web-apps-cli/ba-p/2257581) [techcommunity.microsoft.com]
+- [Use Azure Static Web Apps with Azure DevOps pipelines](https://www.daveabrock.com/2021/04/01/static-web-apps-azure-pipelines/) [www.daveabrock.com]
 
 ### By technology
 
@@ -45,6 +46,7 @@
 - [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor?WT.mc_id=javascript-11478-cxa)
   * [Publish a Blazor WebAssembly app and .NET API with Azure Static Web Apps](https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api-dotnet/?WT.mc_id=javascript-11478-cxa)
   * [Deploy Blazor WebAssembly apps to Azure Static Web Apps](https://www.maneu.net/blog/2020-05-deploy-blazor-client-apps-with-azure-static-apps/) [maneu.net]
+  * [Blast Off with Blazor, Azure Functions, and Azure Static Web Apps](https://www.daveabrock.com/2020/10/13/azure-functions-static-apps-blazor/) [www.daveabrock.com]
 - [Eleventy](https://www.11ty.dev/)
   * [Publish an Eleventy app with Azure Static Web Apps](https://github.com/manekinekko/11ty-blog-swa#eleventy-base-blog)[github.com]
 - [Gatsby](https://www.gatsbyjs.com)
