@@ -35,7 +35,6 @@
 - [Using Auth0 with Static Web Apps](https://www.aaron-powell.com/posts/2021-05-13-using-auth0-with-static-web-apps/) [www.aaron-powell.com]
 - [Introducing the Static Web Apps CLI](https://techcommunity.microsoft.com/t5/apps-on-azure/introducing-the-azure-static-web-apps-cli/ba-p/2257581) [techcommunity.microsoft.com]
 - [Use Azure Static Web Apps with Azure DevOps pipelines](https://www.daveabrock.com/2021/04/01/static-web-apps-azure-pipelines/) [www.daveabrock.com]
-- [Microsoft Releases Azure Static Web Apps into General Availability](https://www.infoq.com/news/2021/05/azure-static-web-apps-ga/) [www.infoq.com]
 
 ### By technology
 
