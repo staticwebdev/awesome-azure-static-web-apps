@@ -1,4 +1,4 @@
-# Awesome Azure Static Web Apps ![Awesome Badge](https://awesome.re/badge-flat2.svg)
+# Awesome Azure Static Web Apps [![Awesome Badge](https://awesome.re/badge-flat2.svg)]((https://awesome.re))
 
 <img src="./static-web-apps.png?raw=true" alt="Azure Static Web Apps logo" width="200" height="auto">
 
