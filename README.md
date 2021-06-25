@@ -20,6 +20,7 @@
 
 ## Learning resources
 
+- [Azure Tips and Tricks: Static Web Apps](https://aka.ms/StaticWebAppsTips) [youtube.com]
 - [Learn how to get started with Azure Static Web Apps // Build 2020](https://www.youtube.com/watch?v=OFcyWMg3jjg) [youtube.com]
 - [From code to scale! Build a static web app in minutes // Build 2020](https://channel9.msdn.com/Events/Build/2020/INT159?WT.mc_id=javascript-11478-cxa) [channel9.com]
 - [Building and Deploying a Static Web App](https://channel9.msdn.com/Shows/Docs-Azure/Building-and-Deploying-a-Static-Web-App/?WT.mc_id=javascript-11478-cxa) [channel9.com]
