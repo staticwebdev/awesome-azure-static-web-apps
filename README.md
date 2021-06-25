@@ -90,6 +90,7 @@
 - [Azure Static Web Apps Minimal HTML/JS/CSS Template](https://github.com/sinedied/azure-swag)
 - [Static Web Dev GitHub TemplateS](https://github.com/staticwebdev?tab=repositories)
 - [TypeScript React + API starter kit](https://github.com/aaronpowell/aswa-react-template)
+- [Azure Static Web Apps minimal TypeScript setup (app + API)](https://github.com/manekinekko/swa-typescript)
 
 ## Showcase
 
