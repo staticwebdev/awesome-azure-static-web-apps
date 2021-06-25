@@ -6,17 +6,20 @@
 
 ## Contents
 
-- [General Resources](#general-resources)
+- [Official Resources](#official-resources)
 - [Learning resources](#learning-resources)
   * [By technology](#by-technology)
 - [Tools](#tools)
+  * [Local development](#local-development)
+  * [Deployment](#deployment)
+  * [Authentication](#authentication)
 - [Starter Kits](#starter-kits)
 - [Showcase](#showcase)
 
-## General Resources
+## Official Resources
 
-- [Official docs and quickstart](https://docs.microsoft.com/azure/static-web-apps/?WT.mc_id=javascript-11478-cxa)
-- [GitHub issue register](https://github.com/Azure/static-web-apps/issues)
+- [Documentation and quickstarts](https://docs.microsoft.com/azure/static-web-apps/?WT.mc_id=javascript-11478-cxa)
+- [Report an issue](https://github.com/Azure/static-web-apps/issues)
 
 ## Learning resources
 
@@ -67,7 +70,7 @@
 
 ## Tools
 
-### Local Dev
+### Local Development
 
 - [Azure Static Web Apps Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps&WT.mc_id=javascript-11478-cxa)
 - [Azure Static Web Apps CLI](https://github.com/Azure/static-web-apps-cli)
@@ -78,7 +81,7 @@
 
 - [GitHub Action for deploying to Azure Static Web Apps](https://github.com/Azure/static-web-apps-deploy)
 
-### Auth
+### Authentication
 
 - [Blazor Authentication for Azure Static Web Apps](https://github.com/Azure/azure-app-service-authentication)
 - [JavaScript API Authentication helper](https://github.com/aaronpowell/azure-static-web-apps-api-auth)
