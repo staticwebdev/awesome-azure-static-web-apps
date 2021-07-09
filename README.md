@@ -36,6 +36,7 @@
 - [Using Auth0 with Static Web Apps](https://www.aaron-powell.com/posts/2021-05-13-using-auth0-with-static-web-apps/) [www.aaron-powell.com]
 - [Introducing the Static Web Apps CLI](https://techcommunity.microsoft.com/t5/apps-on-azure/introducing-the-azure-static-web-apps-cli/ba-p/2257581) [techcommunity.microsoft.com]
 - [Use Azure Static Web Apps with Azure DevOps pipelines](https://www.daveabrock.com/2021/04/01/static-web-apps-azure-pipelines/) [www.daveabrock.com]
+- [Using F# to build static web apps](https://www.aaron-powell.com/posts/2021-07-09-learn-about-fsharp-and-web-development/) [www.aaron-powell.com]
 
 ### By technology
 
@@ -89,9 +90,12 @@
 
 - [Azure Static Web Apps and Mongoose starter kit](https://github.com/GeekTrainer/aswa-student-starter-kit)
 - [Azure Static Web Apps Minimal HTML/JS/CSS Template](https://github.com/sinedied/azure-swag)
-- [Static Web Dev GitHub TemplateS](https://github.com/staticwebdev?tab=repositories)
+- [Static Web Dev GitHub Templates](https://github.com/staticwebdev?tab=repositories)
 - [TypeScript React + API starter kit](https://github.com/aaronpowell/aswa-react-template)
 - [Azure Static Web Apps minimal TypeScript setup (app + API)](https://github.com/manekinekko/swa-typescript)
+- [Fable for Azure Static Web Apps](https://github.com/aaronpowell/swa-fable-template) - GitHub repo template for Fable + Functions for Azure Static Web Apps
+- [Fable + Feliz for Azure Static Web Apps](https://github.com/aaronpowell/swa-feliz-template) - GitHub repo template for Feliz + Functions for Azure Static Web Apps
+- [Elmish for Azure Static Web Apps](https://github.com/aaronpowell/swa-elmish-template) - GitHub repo template for Elmish + Functions for Azure Static Web Apps
 
 ## Showcase
 
