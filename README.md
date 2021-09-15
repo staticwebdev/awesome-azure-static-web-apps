@@ -85,6 +85,7 @@
 - [Blazor Authentication for Azure Static Web Apps](https://github.com/Azure/azure-app-service-authentication)
 - [JavaScript API Authentication helper](https://github.com/aaronpowell/azure-static-web-apps-api-auth)
 - [React auth components](https://github.com/aaronpowell/react-static-web-apps-auth)
+- [Angular auth library](https://github.com/christianacca/static-web-apps-auth)
 
 ## Starter Kits
 
