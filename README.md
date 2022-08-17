@@ -47,7 +47,7 @@
   * [Building An Angular App With Azure Static Web Apps Service](https://medium.com/bb-tutorials-and-thoughts/building-an-angular-app-with-azure-static-web-apps-service-8fe84ebe4709) [medium.com]
 - [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor?WT.mc_id=javascript-11478-cxa)
   * [Publish a Blazor WebAssembly app and .NET API with Azure Static Web Apps](https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api-dotnet/?WT.mc_id=javascript-11478-cxa) [docs.microsoft.com]
-  * [Deploy Blazor WebAssembly apps to Azure Static Web Apps](https://www.maneu.net/blog/2020-05-deploy-blazor-client-apps-with-azure-static-apps/) [maneu.net]
+  * [Deploy Blazor WebAssembly apps to Azure Static Web Apps](https://www.maneu.net/dev/2020-05-deploy-blazor-client-apps-with-azure-static-apps/) [maneu.net]
   * [Blast Off with Blazor, Azure Functions, and Azure Static Web Apps](https://www.daveabrock.com/2020/10/13/azure-functions-static-apps-blazor/) [www.daveabrock.com]
 - [Eleventy](https://www.11ty.dev/)
   * [Publish an Eleventy app with Azure Static Web Apps](https://github.com/manekinekko/11ty-blog-swa#eleventy-base-blog) [github.com]
